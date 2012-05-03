@@ -1,0 +1,5 @@
+﻿Project: RUNNYMEDE_ICS_35_S
+SKU: HTC Generic ROM
+ROM Build ID: 286873
+Build ID: 286874; SKU: HTC Generic ROM default; CID: default; MNS: default
+Datetime: 2012/01/17 12:45:39
